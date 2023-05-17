@@ -1,0 +1,8 @@
+C:\Users\InviaILC\source\repos\Day-8-Assignment\Day-8-Assignment\bin\Debug\Day-8-Assignment.exe.config
+C:\Users\InviaILC\source\repos\Day-8-Assignment\Day-8-Assignment\bin\Debug\Day-8-Assignment.exe
+C:\Users\InviaILC\source\repos\Day-8-Assignment\Day-8-Assignment\bin\Debug\Day-8-Assignment.pdb
+C:\Users\InviaILC\source\repos\Day-8-Assignment\Day-8-Assignment\obj\Debug\Day-8-Assignment.csproj.AssemblyReference.cache
+C:\Users\InviaILC\source\repos\Day-8-Assignment\Day-8-Assignment\obj\Debug\Day-8-Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\InviaILC\source\repos\Day-8-Assignment\Day-8-Assignment\obj\Debug\Day-8-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\InviaILC\source\repos\Day-8-Assignment\Day-8-Assignment\obj\Debug\Day-8-Assignment.exe
+C:\Users\InviaILC\source\repos\Day-8-Assignment\Day-8-Assignment\obj\Debug\Day-8-Assignment.pdb
