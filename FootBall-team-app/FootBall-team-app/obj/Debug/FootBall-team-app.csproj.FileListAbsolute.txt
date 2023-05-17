@@ -1,0 +1,8 @@
+C:\Users\InviaILC\source\repos\FootBall-team-app\FootBall-team-app\bin\Debug\FootBall-team-app.exe.config
+C:\Users\InviaILC\source\repos\FootBall-team-app\FootBall-team-app\bin\Debug\FootBall-team-app.exe
+C:\Users\InviaILC\source\repos\FootBall-team-app\FootBall-team-app\bin\Debug\FootBall-team-app.pdb
+C:\Users\InviaILC\source\repos\FootBall-team-app\FootBall-team-app\obj\Debug\FootBall-team-app.csproj.AssemblyReference.cache
+C:\Users\InviaILC\source\repos\FootBall-team-app\FootBall-team-app\obj\Debug\FootBall-team-app.csproj.SuggestedBindingRedirects.cache
+C:\Users\InviaILC\source\repos\FootBall-team-app\FootBall-team-app\obj\Debug\FootBall-team-app.csproj.CoreCompileInputs.cache
+C:\Users\InviaILC\source\repos\FootBall-team-app\FootBall-team-app\obj\Debug\FootBall-team-app.exe
+C:\Users\InviaILC\source\repos\FootBall-team-app\FootBall-team-app\obj\Debug\FootBall-team-app.pdb
